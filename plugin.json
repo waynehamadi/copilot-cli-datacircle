@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "datacircle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find the best GTM APIs. Datacircle's MCP server, with no key: list every API on the sheet and search its plans, best first.",
   "author": {
     "name": "Datacircle",

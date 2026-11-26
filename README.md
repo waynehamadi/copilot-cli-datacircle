@@ -12,8 +12,11 @@ This plugin adds Datacircle's MCP server, https://api.datacircle.dev/mcp, and a 
 ## Install
 
 ```bash
-copilot plugin install waynehamadi/copilot-cli-datacircle
+copilot plugin marketplace add waynehamadi/copilot-cli-datacircle
+copilot plugin install datacircle@datacircle
 ```
+
+Or in a session: `/plugin marketplace add waynehamadi/copilot-cli-datacircle`, then `/plugin install datacircle@datacircle`.
 
 Then ask Copilot, for example: "Which email finder API is best for under $5 per 1,000?"
 

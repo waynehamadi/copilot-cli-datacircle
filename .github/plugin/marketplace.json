@@ -1,0 +1,26 @@
+{
+  "name": "datacircle",
+  "owner": {
+    "name": "Datacircle"
+  },
+  "metadata": {
+    "description": "Datacircle's plugin: find the best GTM APIs, with no key.",
+    "version": "0.1.1"
+  },
+  "plugins": [
+    {
+      "name": "datacircle",
+      "description": "Find the best GTM APIs. Datacircle's MCP server, with no key: list every API on the sheet and search its plans, best first.",
+      "version": "0.1.1",
+      "source": "./",
+      "author": {
+        "name": "Datacircle",
+        "url": "https://datacircle.dev"
+      },
+      "homepage": "https://datacircle.dev",
+      "repository": "https://github.com/waynehamadi/copilot-cli-datacircle",
+      "license": "MIT",
+      "keywords": ["gtm", "api", "mcp", "pricing"]
+    }
+  ]
+}
