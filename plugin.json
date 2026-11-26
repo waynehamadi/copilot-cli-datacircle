@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "datacircle",
+  "version": "0.1.0",
+  "description": "Find the best GTM APIs. Datacircle's MCP server, with no key: list every API on the sheet and search its plans, best first.",
+  "author": {
+    "name": "Datacircle",
+    "url": "https://datacircle.dev"
+  },
+  "homepage": "https://datacircle.dev",
+  "repository": "https://github.com/waynehamadi/copilot-cli-datacircle",
+  "license": "MIT",
+  "keywords": ["gtm", "api", "mcp", "pricing", "datacircle"]
+}
